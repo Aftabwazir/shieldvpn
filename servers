@@ -109,6 +109,58 @@
         "flag_icon": "in",
         "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
     },
+    "VpnController": {
+    "VpnUserName": "ncpnazih1984@namecheap",
+    "VpnPassword": "PbzlcEnJrT",
+    "VpnList": [
+      {
+        "vpnName": "Andorra",
+        "vpnLocked": true,
+        "vpnIso": "ad",
+        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn"
+      },
+      {
+        "vpnName": "Emarat",
+        "vpnLocked": true,
+        "vpnIso": "ae",
+        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AE-Dubai-TCP.ovpn"
+      },
+      {
+        "vpnName": "Albania",
+        "vpnLocked": false,
+        "vpnIso": "al",
+        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AL-Tirana-TCP.ovpn"
+      },
+      {
+        "vpnName": "Arminia",
+        "vpnLocked": true,
+        "vpnIso": "am",
+        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AM-Yerevan%20-%20Virtual-TCP.ovpn"
+      },
+      {
+        "vpnName": "Argentina",
+        "vpnLocked": false,
+        "vpnIso": "ar",
+        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AR-Buenos%20Aires-TCP.ovpn"
+      },
+      {
+        "vpnName": "Austria",
+        "vpnLocked": false,
+        "vpnIso": "at",
+        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AT-Vienna-TCP.ovpn"
+      },
+      {
+        "vpnName": "Australia",
+        "vpnLocked": true,
+        "vpnIso": "au",
+        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AU-Adelaide-TCP.ovpn"
+      },
+      {
+        "vpnName": "Azerbaijan",
+        "vpnLocked": true,
+        "vpnIso": "az",
+        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AZ-Baku%20-%20Virtual-TCP.ovpn"
+      },
     {
         "name": "Morocco",
         "flag_icon": "ma",
